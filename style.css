@@ -1,6 +1,10 @@
 header {
     background-color: #07314F;
     color: white;
-}
+    display: flex;
 
+}
+.imagem-da-logo-da-escola{
+    width: 20%;
+}
 
