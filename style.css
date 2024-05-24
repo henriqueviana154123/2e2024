@@ -47,7 +47,18 @@ body{
 }
 .images-dos-alunos{
 
-    width: 120%;
+    width: 12%;
 }
 
-  
+.icones-estudantes{
+    width: 10%;
+    width: 24px;
+}
+.div-um{
+    text-align: center;
+}
+.estudantes-titulos{
+
+    padding: 50px 0;
+    text-align: center;
+}
